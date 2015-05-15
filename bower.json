@@ -1,0 +1,10 @@
+{
+  "name": "livereload-grunt-starter",
+  "version": "0.0.1",
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "appPath": "app",
+  "moduleName": "livereload-grunt-starter"
+}
